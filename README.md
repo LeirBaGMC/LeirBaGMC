@@ -36,7 +36,7 @@
 
 <hr style="border-color: #30363d; margin: 35px 0;">
 
-<h3 align="center">🛠 Technical Arsenal</h3>
+<h3 align="center"> Technical Arsenal</h3>
 
 <p align="center" style="color:#8b949e; font-size: 0.9em; font-style: italic; margin-bottom: 15px;">
   Tools and technologies used in academic projects and self-directed learning
