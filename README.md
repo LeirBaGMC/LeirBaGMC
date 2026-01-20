@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-  <h1>Gabriel Minda Carrión</h1>
+  <h1>Gabriel Alexander Minda Carrión</h1>
   
-  <h3><code>LeirBaG</code> 🔄 <code>Gabriel</code> | GMC</h3>
+  <h3><code>LeirBaGMC</code> </h3>
   
   <p>
-    <b>Desarrollador de Software | Soluciones Tecnológicas</b><br>
-    <i>"Transformando lógica en soluciones eficientes"</i>
+    <b>Systems Engineering Student</b><br>
+    <i>Gaining multidisciplinary foundations in software and systems, aiming to specialize in pentesting.</i>
   </p>
   
   <br>
