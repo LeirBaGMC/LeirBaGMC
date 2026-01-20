@@ -26,10 +26,10 @@ Here are some ideas to get you started:
   
   <br>
   
-  <a href="https://linkedin.com/in/tu-usuario" target="_blank">
+  <a href="https://linkedin.com/in/www.linkedin.com/in/gabriel-amindac" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Gabriel_Minda-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:tu@email.com">
+  <a href="mailto:gabominda1@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contactar-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
