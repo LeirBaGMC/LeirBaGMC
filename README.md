@@ -7,7 +7,7 @@
     style="border-radius: 10px; margin-bottom: 25px;"
   />
 
-  <h1 style="margin-bottom: 10px; font-size: 2.5em;">Gabriel Alexander Minda</h1>
+  <h1 style="margin-bottom: 10px; font-size: 2.5em;">Gabriel Minda C.</h1>
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=8B949E&center=true&vCenter=true&width=600&lines=Systems+Engineering+Student+%40+UIDE;Learning+Software%2C+Networking+%26+Security;Future+Focus%3A+Pentesting+%26+Network+Resilience" alt="Typing SVG" />
@@ -61,7 +61,7 @@
 
 <br>
 
-<h3 align="center">📊 GitHub Statistics</h3>
+<h3 align="center"> GitHub Statistics</h3>
 <table align="center" border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td align="center" style="padding-right: 20px;">
@@ -75,7 +75,7 @@
 
 <br>
 
-<h3 align="center">🚀 Featured Research & Projects</h3>
+<h3 align="center"> Featured Research & Projects</h3>
 <table align="center" border="0" cellspacing="0" cellpadding="0" width="100%">
   <tr>
     <td width="50%" align="center" style="padding: 10px;">
@@ -91,7 +91,7 @@
   </tr>
 </table>
 
-<h3 align="center">📈 Contribution Activity</h3>
+<h3 align="center">Contribution Activity</h3>
 <div align="center">
   <img src="https://raw.githubusercontent.com/LeirBaGMC/LeirBaGMC/output/snake.svg" alt="Activity Graph" width="100%" style="border-radius: 8px;" />
 </div>
