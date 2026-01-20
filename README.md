@@ -26,7 +26,7 @@
 
 <hr />
 
-<h3>🛠️ Tech Stack</h3>
+<h3 align="center">🛠️ Tech Stack</h3>
 
 <b>Programming Languages</b><br>
 <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
@@ -52,4 +52,23 @@
 <img src="https://img.shields.io/badge/Kali_Linux-557EBF?style=flat-square&logo=kalilinux&logoColor=white" alt="Kali Linux" />
 <img src="https://img.shields.io/badge/Virtualization-0078D7?style=flat-square&logo=microsoft&logoColor=white" alt="Virtualization" />
 
+<hr />
 
+<h3 align="center">🚀 Featured Projects</h3>
+<p>
+  <b><a href="https://github.com/LeirBaGMC/Campus-Network-Architecture-RPi">Multi-VLAN Campus Network Architecture</a></b><br>
+  Physical implementation of a secure network with RPi Core Routing, EtherChannel redundancy, and VLSM planning[cite: 1, 5, 31].
+</p>
+<p>
+  <b><a href="https://github.com/LeirBaGMC/RUCKUS-Security-Research">RUCKUS Security Research</a></b><br>
+  Technical analysis of critical RCE vulnerabilities (CVE-2023-25717) and strategic CISO mitigation roadmaps[cite: 450, 459, 483].
+</p>
+
+<hr />
+
+<h3 align="center">🐍 Code Activity Journey</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/LeirBaGMC/LeirBaGMC/output/snake.svg" alt="GitHub contribution grid snake animation" />
+</p>
+
+</div>
