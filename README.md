@@ -10,13 +10,16 @@
   <h1 style="margin-bottom: 10px; font-size: 2.5em;">Gabriel Alexander Minda</h1>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=8B949E&center=true&vCenter=true&width=500&lines=Systems+Engineering+Student+%40+UIDE;Focusing+on+Offensive+Security+%26+Auditing;Building+Resilient+Network+Infrastructures" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=8B949E&center=true&vCenter=true&width=600&lines=Systems+Engineering+Student+%40+UIDE;Learning+Software%2C+Networking+%26+Security;Future+Focus%3A+Pentesting+%26+Network+Resilience" alt="Typing SVG" />
   </a>
 
   <p align="center" style="max-width: 80%; line-height: 1.8; color: #c9d1d9; margin-top: 20px;">
-    Systems Engineering student aspiring to specialize in <b>Pentesting</b> and <b>Network Resilience</b>. 
-    My academic focus centers on <b>Offensive Security Auditing</b>, <b>Packet Analysis</b>, and the hardening of 
-    <b>UNIX</b> environments against critical vulnerabilities.
+    Systems Engineering student building a strong foundation in <b>software development</b>, 
+    <b>networking</b>, and <b>information security</b>. <br>
+    My current focus is on learning <b>offensive security fundamentals</b>, 
+    <b>packet analysis</b>, and <b>Linux-based system hardening</b>, 
+    with the long-term goal of specializing in <b>Pentesting</b> and 
+    <b>network resilience</b>.
   </p>
 
   <p style="margin-top: 20px;">
@@ -35,7 +38,11 @@
 
 <h3 align="center">🛠 Technical Arsenal</h3>
 
-<p align="center" style="font-weight: bold; color: #8b949e; margin-bottom: 5px;">Core Languages & Scripting</p>
+<p align="center" style="color:#8b949e; font-size: 0.9em; font-style: italic; margin-bottom: 15px;">
+  Tools and technologies used in academic projects and self-directed learning
+</p>
+
+<p align="center" style="font-weight: bold; color: #8b949e; margin-bottom: 5px;">Core Languages & Development</p>
 <p align="center">
   <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
