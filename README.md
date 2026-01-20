@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/LeirBaGMC/LeirBaGMC/blob/0d472334c9f9940e1983a0218b81fa442e196fb2/assets/Gemini_Generated_Image_n4enihn4enihn4en.png" width="100%" alt="Gabriel Minda Samurai Banner" style="border-radius: 10px;" />
+<img src="https://github.com/LeirBaGMC/LeirBaGMC/blob/0d472334c9f9940e1983a0218b81fa442e196fb2/assets/Gemini_Generated_Image_n4enihn4enihn4en.png?raw=true" width="100%" alt="Gabriel Minda Samurai Banner" style="border-radius: 10px;" />
 
 <br>
 
