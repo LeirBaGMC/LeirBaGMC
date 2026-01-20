@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Gabriel%20Minda&fontSize=70&fontAlignY=35&desc=Systems%20Engineering%20Student%20@%20UIDE&descAlignY=60&descAlign=50&animation=fadeIn" alt="Header" />
+<img src="https://github.com/LeirBaGMC/LeirBaGMC/blob/0d472334c9f9940e1983a0218b81fa442e196fb2/assets/Gemini_Generated_Image_n4enihn4enihn4en.png" width="100%" alt="Gabriel Minda Samurai Banner" style="border-radius: 10px;" />
+
+<br>
 
 <p>
   <a href="https://www.linkedin.com/in/gabriel-amindac" target="_blank">
