@@ -9,8 +9,9 @@
   </a>
 
   <p align="center">
-    Estudiante de Ingeniería en Sistemas construyendo <b>bases técnicas sólidas</b> en software, <br />
-    redes y sistemas operativos, con enfoque a largo plazo en <b>pentesting</b> y seguridad de redes.
+    Systems Engineering student building <b>solid technical foundations</b> across software, <br />
+    networking, and operating systems, with a long-term focus on <br />
+    <b>pentesting</b> and <b>network security</b>.
   </p>
 
   <p align="center">
@@ -43,25 +44,31 @@
 
 <h2 align="center">Featured Projects</h2>
 
-<p align="center">
-  <a href="https://github.com/LeirBaGMC/Campus-Network-Architecture-RPi">
-    <img src="https://github-readme-stats.vercel.app/api/pin?username=LeirBaGMC&repo=Campus-Network-Architecture-RPi&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&cache_seconds=1800" />
-  </a>
-  <a href="https://github.com/LeirBaGMC/RUCKUS-Security-Research">
-    <img src="https://github-readme-stats.vercel.app/api/pin?username=LeirBaGMC&repo=RUCKUS-Security-Research&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&cache_seconds=1800" />
-  </a>
-</p>
+<div align="center">
+
+  <h3>🛡️ Campus Network Architecture (RPi)</h3>
+  <p>Designing and implementing a network architecture using Raspberry Pi, featuring VLAN segmentation and monitoring.</p>
+  <p>
+    <img src="https://img.shields.io/badge/Networking-VLANs-blue?style=flat-square" />
+    <img src="https://img.shields.io/badge/Platform-Raspberry_Pi-green?style=flat-square" />
+    <a href="https://github.com/LeirBaGMC/Campus-Network-Architecture-RPi"><b>[ View Repository ]</b></a>
+  </p>
+
+  <br />
+
+  <h3>🔍 RUCKUS Security Research</h3>
+  <p>Technical research on RUCKUS devices: attack surface analysis, configuration reviews, and security hardening.</p>
+  <p>
+    <img src="https://img.shields.io/badge/Security-Hardening-red?style=flat-square" />
+    <img src="https://img.shields.io/badge/Research-Cybersecurity-lightgrey?style=flat-square" />
+    <a href="https://github.com/LeirBaGMC/RUCKUS-Security-Research"><b>[ View Repository ]</b></a>
+  </p>
+
+</div>
 
 <hr />
 
 <h2 align="center">GitHub Activity</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LeirBaGMC&show_icons=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&count_private=true&cache_seconds=1800" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LeirBaGMC&layout=compact&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&cache_seconds=1800" height="170" />
-</p>
-
-<br />
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/LeirBaGMC/LeirBaGMC/output/snake.svg" alt="Contribution Snake" width="850" />
@@ -70,5 +77,5 @@
 <hr />
 
 <p align="center">
-  Hecho con ❤️ · <sub>Gabriel Minda</sub>
+  
 </p>
