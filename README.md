@@ -24,9 +24,9 @@
 
 </div>
 
-<hr />
+---
 
-<h2 align="center">Technical Foundations</h2>
+### Technical Foundations
 
 <p align="center">
   <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
@@ -39,26 +39,26 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
 </p>
 
-<hr />
+---
 
-<h2 align="center">Featured Projects</h2>
+### Featured Projects
 
 <p align="center">
   <a href="https://github.com/LeirBaGMC/Campus-Network-Architecture-RPi">
-    <img src="https://github-readme-stats.vercel.app/api/pin?username=LeirBaGMC&repo=Campus-Network-Architecture-RPi&theme=tokyonight&v=4" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LeirBaGMC&repo=Campus-Network-Architecture-RPi&theme=tokyonight" />
   </a>
   <a href="https://github.com/LeirBaGMC/RUCKUS-Security-Research">
-    <img src="https://github-readme-stats.vercel.app/api/pin?username=LeirBaGMC&repo=RUCKUS-Security-Research&theme=tokyonight&v=4" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LeirBaGMC&repo=RUCKUS-Security-Research&theme=tokyonight" />
   </a>
 </p>
 
-<hr />
+---
 
-<h2 align="center">GitHub Activity</h2>
+### GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LeirBaGMC&show_icons=true&theme=tokyonight&v=4" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LeirBaGMC&layout=compact&theme=tokyonight&v=4" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LeirBaGMC&show_icons=true&theme=tokyonight" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeirBaGMC&layout=compact&theme=tokyonight" height="170" />
 </p>
 
 <br />
@@ -67,7 +67,7 @@
   <img src="https://raw.githubusercontent.com/LeirBaGMC/LeirBaGMC/output/snake.svg" alt="Contribution Snake" width="850" />
 </div>
 
-<hr />
+---
 
 <p align="center">
   Hecho con ❤️ · <sub>Gabriel Minda</sub>
