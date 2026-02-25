@@ -49,20 +49,12 @@
 <h3 align="center">Featured Projects</h3>
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td width="50%">
-        <a href="https://github.com/LeirBaGMC/Campus-Network-Architecture-RPi">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=LeirBaGMC&repo=Campus-Network-Architecture-RPi&theme=tokyonight&hide_border=true&bg_color=00000000&icon_color=7aa2f7" />
-        </a>
-      </td>
-      <td width="50%">
-        <a href="https://github.com/LeirBaGMC/RUCKUS-Security-Research">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=LeirBaGMC&repo=RUCKUS-Security-Research&theme=tokyonight&hide_border=true&bg_color=00000000&icon_color=f7768e" />
-        </a>
-      </td>
-    </tr>
-  </table>
+  <a href="https://github.com/LeirBaGMC/Campus-Network-Architecture-RPi">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LeirBaGMC&repo=Campus-Network-Architecture-RPi&theme=tokyonight&show_owner=true" width="400" />
+  </a>
+  <a href="https://github.com/LeirBaGMC/RUCKUS-Security-Research">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LeirBaGMC&repo=RUCKUS-Security-Research&theme=tokyonight&show_owner=true" width="400" />
+  </a>
 </div>
 
 <hr />
@@ -70,8 +62,8 @@
 <h3 align="center">GitHub Activity</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LeirBaGMC&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&count_private=true&v=1" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeirBaGMC&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&v=1" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LeirBaGMC&show_icons=true&theme=tokyonight&count_private=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeirBaGMC&layout=compact&theme=tokyonight" height="170" />
 </div>
 
 <br />
