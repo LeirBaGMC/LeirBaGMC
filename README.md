@@ -15,18 +15,18 @@
 
   <p align="center">
     <a href="https://www.linkedin.com/in/gabriel-amindac" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="mailto:gabominda1@gmail.com">
-      <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+      <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
     </a>
   </p>
 
 </div>
 
----
+<hr />
 
-### Technical Foundations
+<h2 align="center">Technical Foundations</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
@@ -39,26 +39,26 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
 </p>
 
----
+<hr />
 
-### Featured Projects
+<h2 align="center">Featured Projects</h2>
 
 <p align="center">
   <a href="https://github.com/LeirBaGMC/Campus-Network-Architecture-RPi">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LeirBaGMC&repo=Campus-Network-Architecture-RPi&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin?username=LeirBaGMC&repo=Campus-Network-Architecture-RPi&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&cache_seconds=1800" />
   </a>
   <a href="https://github.com/LeirBaGMC/RUCKUS-Security-Research">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LeirBaGMC&repo=RUCKUS-Security-Research&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin?username=LeirBaGMC&repo=RUCKUS-Security-Research&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&cache_seconds=1800" />
   </a>
 </p>
 
----
+<hr />
 
-### GitHub Activity
+<h2 align="center">GitHub Activity</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LeirBaGMC&show_icons=true&theme=tokyonight" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeirBaGMC&layout=compact&theme=tokyonight" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LeirBaGMC&show_icons=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&count_private=true&cache_seconds=1800" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LeirBaGMC&layout=compact&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&cache_seconds=1800" height="170" />
 </p>
 
 <br />
@@ -67,7 +67,7 @@
   <img src="https://raw.githubusercontent.com/LeirBaGMC/LeirBaGMC/output/snake.svg" alt="Contribution Snake" width="850" />
 </div>
 
----
+<hr />
 
 <p align="center">
   Hecho con ❤️ · <sub>Gabriel Minda</sub>
