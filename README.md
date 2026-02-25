@@ -66,7 +66,7 @@
       </p>
     </td>
 
-    <td align="center" width="50%" valign="top" style="padding:12px;">
+   <td align="center" width="50%" valign="top" style="padding:12px;">
       <a href="https://github.com/LeirBaGMC/RUCKUS-Security-Research" target="_blank" rel="noopener">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=LeirBaGMC&repo=RUCKUS-Security-Research&theme=tokyonight" alt="RUCKUS Security Research" />
       </a>
@@ -105,9 +105,9 @@
 ## Cómo mantenerlo funcionando (nota breve)
 
 - Asegura que este README está en el repositorio `LeirBaGMC/LeirBaGMC` como `README.md`.
-- Coloca `assets/profile.jpg` y `output/snake.svg` en la rama `main` con los nombres exactos.
-- Verifica en **Actions** cualquier workflow que genere `output/snake.svg` y reejecuta si falló.
-- Los servicios externos (`github-readme-stats`) pueden fallar por rate-limits; si necesitas redundancia, reemplaza las imágenes por capturas o por badges estáticos.
+- Coloca `assets/profile.jpg` y `output/snake.svg` en la rama `main` con los nombres exactos (sensibles a mayúsculas).
+- Revisa en **Actions** cualquier workflow que genere `output/snake.svg` y reejecuta si falló.
+- `github-readme-stats` es un servicio externo: puede fallar por rate-limits. Si ves imágenes rotas abre la URL de la imagen directamente en el navegador para diagnosticar (404/429/403).
 
 ---
 
