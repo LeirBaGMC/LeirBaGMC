@@ -9,12 +9,16 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v4
+      
       - uses: Platane/snk@v3
         with:
           github_user_name: LeirBaGMC
-          outputs: dist/snake.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v2.1.3
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+        
+      - uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
           build_dir: dist
