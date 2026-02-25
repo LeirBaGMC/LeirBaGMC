@@ -45,10 +45,10 @@
 
 <p align="center">
   <a href="https://github.com/LeirBaGMC/Campus-Network-Architecture-RPi">
-    <img src="https://github-readme-stats.vercel.app/api/pin?username=LeirBaGMC&repo=Campus-Network-Architecture-RPi" />
+    <img src="https://github-readme-stats.vercel.app/api/pin?username=LeirBaGMC&repo=Campus-Network-Architecture-RPi&theme=tokyonight&v=4" />
   </a>
   <a href="https://github.com/LeirBaGMC/RUCKUS-Security-Research">
-    <img src="https://github-readme-stats.vercel.app/api/pin?username=LeirBaGMC&repo=RUCKUS-Security-Research" />
+    <img src="https://github-readme-stats.vercel.app/api/pin?username=LeirBaGMC&repo=RUCKUS-Security-Research&theme=tokyonight&v=4" />
   </a>
 </p>
 
@@ -57,8 +57,8 @@
 <h2 align="center">GitHub Activity</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LeirBaGMC&show_icons=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LeirBaGMC&layout=compact" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LeirBaGMC&show_icons=true&theme=tokyonight&v=4" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LeirBaGMC&layout=compact&theme=tokyonight&v=4" height="170" />
 </p>
 
 <br />
@@ -66,3 +66,9 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/LeirBaGMC/LeirBaGMC/output/snake.svg" alt="Contribution Snake" width="850" />
 </div>
+
+<hr />
+
+<p align="center">
+  Hecho con ❤️ · <sub>Gabriel Minda</sub>
+</p>
