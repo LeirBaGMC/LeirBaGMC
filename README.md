@@ -103,21 +103,21 @@ Three semesters completed.
 **Cybersecurity:** vulnerability analysis, network security, and digital forensics.
 
 <p align="center">
-  <img src="./assets/icons/software.svg" alt="Software development" width="40">
+  <img src="./icons/software.svg" alt="Software development" width="40">
   &nbsp;
-  <img src="./assets/icons/api-integration.svg" alt="API integration" width="40">
+  <img src="./icons/api-integration.svg" alt="API integration" width="40">
   &nbsp;
-  <img src="./assets/icons/cloud-data.svg" alt="Databases" width="40">
+  <img src="./icons/cloud-data.svg" alt="Databases" width="40">
   &nbsp;
-  <img src="./assets/icons/cloud-devops.svg" alt="Cloud and DevOps" width="40">
+  <img src="./icons/cloud-devops.svg" alt="Cloud and DevOps" width="40">
   &nbsp;
-  <img src="./assets/icons/network.svg" alt="Networks" width="40">
+  <img src="./icons/network.svg" alt="Networks" width="40">
   &nbsp;
-  <img src="./assets/icons/security.svg" alt="Cybersecurity" width="40">
+  <img src="./icons/security.svg" alt="Cybersecurity" width="40">
   &nbsp;
-  <img src="./assets/icons/it-support.svg" alt="IT support" width="40">
+  <img src="./icons/it-support.svg" alt="IT support" width="40">
   &nbsp;
-  <img src="./assets/icons/systems.svg" alt="Systems engineering" width="40">
+  <img src="./icons/systems.svg" alt="Systems engineering" width="40">
 </p>
 
 <p align="center">
