@@ -1,15 +1,21 @@
 <p align="center">
-  <img src="./assets/sakura-banner-dark.png" alt="LeirBaGMC — Systems Engineering" width="100%">
+  <img src="./assets/sakura-banner-dark-integrated.png"
+       alt="LeirBaGMC — Systems Engineering"
+       width="100%">
 </p>
 
 # LeirBaGMC
 
 Systems Engineering student based in Quito, Ecuador. Interested in software development, networks, and technology infrastructure, with a long-term focus on cybersecurity and network security.
 
-[GitHub](https://github.com/LeirBaGMC) · [LinkedIn](https://www.linkedin.com/in/gabriel-amindac/) · [Email](mailto:gabomindal@gmail.com)
+[GitHub](https://github.com/LeirBaGMC) ·
+[LinkedIn](https://www.linkedin.com/in/gabriel-amindac/) ·
+[Email](mailto:gabomindal@gmail.com)
 
 <p align="center">
-  <img src="./assets/sakura-divider.png" alt="" width="75%">
+  <img src="./assets/sakura-katana-divider-red.svg"
+       alt=""
+       width="100%">
 </p>
 
 ## About
@@ -17,7 +23,9 @@ Systems Engineering student based in Quito, Ecuador. Interested in software deve
 I am currently in my fifth semester of Systems Engineering at Universidad Internacional del Ecuador (UIDE). I have practical experience in software development, API integration, relational databases, cloud deployments, and IT support. My long-term interests include cybersecurity, penetration testing, and network security.
 
 <p align="center">
-  <img src="./assets/sakura-divider.png" alt="" width="75%">
+  <img src="./assets/sakura-katana-divider-red.svg"
+       alt=""
+       width="100%">
 </p>
 
 ## Experience
@@ -38,7 +46,9 @@ Develop software solutions across frontend, backend, databases, and cloud deploy
 Performed equipment maintenance and assisted with operating system updates and network tools.
 
 <p align="center">
-  <img src="./assets/sakura-divider.png" alt="" width="75%">
+  <img src="./assets/sakura-katana-divider-red.svg"
+       alt=""
+       width="100%">
 </p>
 
 ## Selected Projects
@@ -62,7 +72,9 @@ Backend features for managing electronic waste batches and devices, including pe
 Team project for appointment and queue management.
 
 <p align="center">
-  <img src="./assets/sakura-divider.png" alt="" width="75%">
+  <img src="./assets/sakura-katana-divider-red.svg"
+       alt=""
+       width="100%">
 </p>
 
 ## Education
@@ -76,7 +88,9 @@ Three semesters completed.
 **High School Diploma in Science — Unidad Educativa Particular Andino** · 2020
 
 <p align="center">
-  <img src="./assets/sakura-divider.png" alt="" width="75%">
+  <img src="./assets/sakura-katana-divider-red.svg"
+       alt=""
+       width="100%">
 </p>
 
 ## Skills
@@ -87,6 +101,7 @@ Three semesters completed.
 **Cloud and DevOps:** AWS, Azure, Azure DevOps, CI/CD, Docker, Kubernetes, Git, and PowerShell.  
 **Networks and systems:** Linux, MikroTik, pfSense, Zabbix, network design, and routing.  
 **Cybersecurity:** vulnerability analysis, network security, and digital forensics.
+
 <p align="center">
   <img src="./assets/icons/software.svg" alt="Software development" width="40">
   &nbsp;
@@ -101,10 +116,14 @@ Three semesters completed.
   <img src="./assets/icons/security.svg" alt="Cybersecurity" width="40">
   &nbsp;
   <img src="./assets/icons/it-support.svg" alt="IT support" width="40">
+  &nbsp;
+  <img src="./assets/icons/systems.svg" alt="Systems engineering" width="40">
 </p>
 
 <p align="center">
-  <img src="./assets/sakura-divider.png" alt="" width="75%">
+  <img src="./assets/sakura-katana-divider-red.svg"
+       alt=""
+       width="100%">
 </p>
 
 ## Certifications and Languages
@@ -117,4 +136,3 @@ Spanish (native) · English (B2)
   <a href="https://www.linkedin.com/in/gabriel-amindac/">LinkedIn</a> ·
   <a href="mailto:gabomindal@gmail.com">Email</a>
 </p>
-
