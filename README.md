@@ -55,6 +55,11 @@ Backend features for managing electronic waste batches and devices, including pe
 **[Turno Fácil](https://github.com/os-devsec/Turno-Facil)**  
 Team project for appointment and queue management.
 
+## GitHub Activity
+
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=LeirBaGMC&show_icons=true&hide_border=true&title_color=a9253d&text_color=eee9dc&icon_color=d6b46f&bg_color=0d1117" alt="GitHub statistics for LeirBaGMC">
+</p>
 ## Education
 
 **Systems Engineering — Universidad Internacional del Ecuador (UIDE)** · 2023–2028, in progress  
@@ -106,3 +111,4 @@ Spanish (native) · English (B2)
   <a href="https://www.linkedin.com/in/gabriel-amindac/">LinkedIn</a> ·
   <a href="mailto:gabomindal@gmail.com">Email</a>
 </p>
+
