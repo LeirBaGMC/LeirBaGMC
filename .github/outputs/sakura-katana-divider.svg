@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 220" role="img" aria-labelledby="title desc">
+  <title id="title">Katana and sakura divider</title>
+  <desc id="desc">A diagonal katana surrounded by restrained sage cherry blossoms.</desc>
+  <defs>
+    <linearGradient id="steel" x1="0" y1="1" x2="1" y2="0">
+      <stop offset="0" stop-color="#839b87"/>
+      <stop offset=".45" stop-color="#d5ddce"/>
+      <stop offset="1" stop-color="#8ba38e"/>
+    </linearGradient>
+    <g id="blossom" stroke="#55745d" stroke-width="1.5" fill="#a6bda5">
+      <ellipse cy="-13" rx="7" ry="11"/>
+      <ellipse cx="12.4" cy="-4" rx="7" ry="11" transform="rotate(72 12.4 -4)"/>
+      <ellipse cx="7.7" cy="10.5" rx="7" ry="11" transform="rotate(144 7.7 10.5)"/>
+      <ellipse cx="-7.7" cy="10.5" rx="7" ry="11" transform="rotate(216 -7.7 10.5)"/>
+      <ellipse cx="-12.4" cy="-4" rx="7" ry="11" transform="rotate(288 -12.4 -4)"/>
+      <circle r="4" fill="#d7cfaa" stroke="#887e5d"/>
+      <g fill="#887e5d" stroke="none"><circle cx="0" cy="-6" r="1.3"/><circle cx="5" cy="-3" r="1.3"/><circle cx="4" cy="3" r="1.3"/><circle cx="-4" cy="3" r="1.3"/><circle cx="-5" cy="-3" r="1.3"/></g>
+    </g>
+    <g id="leaf" fill="#839d83" stroke="#55745d" stroke-width="1">
+      <path d="M0 0 C8 -10 22 -11 28 -8 C23 0 10 6 0 0Z"/>
+      <path d="M2 0L24 -7" fill="none" stroke-width=".8"/>
+    </g>
+  </defs>
+  <!-- fine green strokes make the illustration work as a slim divider -->
+  <path d="M18 110H355 M845 110H1182" stroke="#668b75" stroke-width="1.5" stroke-linecap="round" opacity=".85"/>
+  <!-- blossoming branch behind the sword -->
+  <g fill="none" stroke="#617b64" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M412 166 C470 137 495 96 548 83 C591 72 625 89 672 69 C710 52 742 46 789 55"/>
+    <path d="M498 120 C483 96 469 78 449 68 M550 83 C544 59 550 42 566 25 M672 69 C688 88 706 100 729 103 M739 57 C754 36 773 24 796 19"/>
+  </g>
+  <g><use href="#leaf" transform="translate(455 73) rotate(205)"/><use href="#leaf" transform="translate(567 31) rotate(250)"/><use href="#leaf" transform="translate(720 96) rotate(25)"/><use href="#leaf" transform="translate(785 23) rotate(300)"/></g>
+  <g><use href="#blossom" transform="translate(448 63) scale(.9)"/><use href="#blossom" transform="translate(565 24) scale(.72)"/><use href="#blossom" transform="translate(734 106) scale(.82)"/><use href="#blossom" transform="translate(800 18) scale(.64)"/></g>
+  <!-- katana runs diagonally from lower left blade to upper right hilt -->
+  <g transform="rotate(-32 600 110)" stroke-linejoin="round">
+    <!-- curved blade -->
+    <path d="M286 111 Q415 99 533 103 L727 103 Q747 104 760 110 Q746 116 727 117 L533 117 Q414 121 286 111Z" fill="url(#steel)" stroke="#526e58" stroke-width="2"/>
+    <path d="M300 111 Q500 108 737 110" fill="none" stroke="#edf0df" stroke-width="1.5" opacity=".95"/>
+    <path d="M519 99 L519 121" stroke="#4f6954" stroke-width="4"/>
+    <!-- circular guard -->
+    <ellipse cx="523" cy="110" rx="9" ry="23" fill="#d5cfad" stroke="#776f53" stroke-width="2"/>
+    <ellipse cx="523" cy="110" rx="5" ry="18" fill="none" stroke="#8e835e" stroke-width="1.2"/>
+    <!-- dark handle with traditional diamond wrap -->
+    <path d="M531 103 L742 103 L778 107 L778 113 L742 117 L531 117Z" fill="#26352d" stroke="#536d58" stroke-width="2"/>
+    <path d="M543 104L557 116L571 104L585 116L599 104L613 116L627 104L641 116L655 104L669 116L683 104L697 116L711 104L725 116L739 104L753 116L767 105" fill="none" stroke="#aab99e" stroke-width="2.4"/>
+    <path d="M543 116L557 104L571 116L585 104L599 116L613 104L627 116L641 104L655 116L669 104L683 116L697 104L711 116L725 104L739 116L753 104L767 115" fill="none" stroke="#728a74" stroke-width="1.5"/>
+    <path d="M778 105L792 107L792 113L778 115Z" fill="#d5cfad" stroke="#776f53" stroke-width="1.5"/>
+    <path d="M792 107L806 108L806 112L792 113Z" fill="#334438" stroke="#536d58" stroke-width="1.5"/>
+  </g>
+  <!-- a few drifting petals echo the spring theme -->
+  <path d="M365 53C373 46 382 47 386 53C381 61 373 63 365 53Z" fill="#a6bda5" stroke="#55745d" stroke-width="1" transform="rotate(-20 375 55)"/>
+  <path d="M836 151C844 144 852 145 857 151C852 159 844 161 836 151Z" fill="#a6bda5" stroke="#55745d" stroke-width="1" transform="rotate(18 846 153)"/>
+</svg>

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 64" role="img" aria-labelledby="title desc">
+  <title id="title">Sakura section divider</title>
+  <desc id="desc">A fine pine-green line with a restrained sage cherry blossom in the center.</desc>
+  <path d="M20 34 C95 32 140 37 210 33 S335 35 410 33 S500 35 548 33" fill="none" stroke="#668b75" stroke-width="1.6" stroke-linecap="round" opacity=".9"/>
+  <path d="M652 33 C725 35 785 32 850 34 S970 31 1030 34 S1120 32 1180 34" fill="none" stroke="#668b75" stroke-width="1.6" stroke-linecap="round" opacity=".9"/>
+  <g transform="translate(600 32)" fill="#9fbaa1" stroke="#54745e" stroke-width="1.1">
+    <ellipse cx="0" cy="-11" rx="5.4" ry="9"/>
+    <ellipse cx="10.5" cy="-3.4" rx="5.4" ry="9" transform="rotate(72 10.5 -3.4)"/>
+    <ellipse cx="6.5" cy="8.9" rx="5.4" ry="9" transform="rotate(144 6.5 8.9)"/>
+    <ellipse cx="-6.5" cy="8.9" rx="5.4" ry="9" transform="rotate(216 -6.5 8.9)"/>
+    <ellipse cx="-10.5" cy="-3.4" rx="5.4" ry="9" transform="rotate(288 -10.5 -3.4)"/>
+    <circle r="3.2" fill="#d8cfaa" stroke="#8b805e"/>
+  </g>
+  <circle cx="565" cy="32" r="1.5" fill="#b4c8a8" opacity=".85"/>
+  <circle cx="635" cy="32" r="1.5" fill="#b4c8a8" opacity=".85"/>
+</svg>
