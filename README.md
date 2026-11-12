@@ -1,75 +1,75 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/sakura-banner-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/sakura-banner-light.png">
-  <img alt="Primavera japonesa: cerezos en flor, monte Fuji y un puente" src="./assets/sakura-banner-dark.png" width="100%">
-</picture>
+<div align="center">
 
-# Gabriel Alexander Minda Carrión
+<img src="./assets/sakura-banner-dark.png" alt="LeirBaGMC — Systems Engineering" width="100%">
 
-Estudiante de Ingeniería en Sistemas en Quito, Ecuador. Me interesa el desarrollo de software, las redes y la infraestructura tecnológica, con un enfoque a largo plazo en ciberseguridad y seguridad de redes.
+</div>
 
-[GitHub](https://github.com/LeirBaGMC) · [LinkedIn](https://www.linkedin.com/in/gabriel-amindac/) · [Correo](mailto:gabomindal@gmail.com)
+# About
 
-## Experiencia
+Systems Engineering student based in Quito, Ecuador. Interested in software development, networks, and technology infrastructure, with a long-term focus on cybersecurity and network security.
 
-**Pasante de Desarrollo de Software — Saludsa** · Quito · septiembre de 2026–actualidad  
-Colaboro en el desarrollo y mantenimiento de aplicaciones internas y servicios relacionados con operaciones de recaudos. Apoyo la integración de frontend, backend, APIs y bases de datos, además del análisis de incidencias y seguimiento de compilaciones y despliegues con Git y Azure DevOps.
+[GitHub](https://github.com/LeirBaGMC) · [LinkedIn](https://www.linkedin.com/in/gabriel-amindac/) · [Email](mailto:gabomindal@gmail.com)
 
-**Gerente de ventas y registros — Bantú Dance Studio** · marzo–junio de 2026  
-Gestioné ventas, inscripciones, registros, asistencia y pagos, y atendí consultas de clientes.
+## Experience
 
-**Pasante de soporte técnico — Universidad Internacional del Ecuador (UIDE)** · febrero de 2024–septiembre de 2026  
-Brindé soporte técnico de primer nivel, estandaricé laboratorios y apoyé la instalación y despliegue de software académico.
+**Software Developer Intern — Saludsa** · Quito · September 2026–present  
+Contribute to the development and maintenance of internal applications and services related to payment operations. Support frontend and backend integration, APIs, relational databases, issue analysis, and build and deployment tracking with Git and Azure DevOps.
 
-**Desarrollador independiente** · proyectos académicos y personales · mayo de 2024–actualidad  
-Desarrollo soluciones de software participando en frontend, backend, bases de datos y despliegues.
+**Sales and Registration Manager — Bantú Dance Studio** · March–June 2026  
+Managed sales, registrations, attendance, and payments, and responded to customer inquiries.
 
-**Pasante de soporte técnico — Hospital Especializado Pediátrico Baca Ortiz** · julio–agosto de 2022  
-Realicé mantenimiento preventivo y correctivo de equipos y apoyé la instalación y actualización de sistemas y herramientas de red.
+**IT Support Intern — Universidad Internacional del Ecuador (UIDE)** · February 2024–September 2026  
+Provided first-level IT support, standardized labs, and assisted with academic software installation and deployment.
 
-## Proyectos
+**Independent Developer** · Academic and personal projects · May 2024–present  
+Build software solutions across frontend, backend, databases, and cloud deployment.
+
+**IT Support Intern — Hospital Especializado Pediátrico Baca Ortiz** · July–August 2022  
+Performed preventive and corrective equipment maintenance and assisted with operating system updates and network tools.
+
+## Selected projects
 
 **[SQLi Studio — SQLi and Recon Tool](https://github.com/LeirBaGMC/SQLi-And-Recon-Tool)** · Go, React, Docker  
-Herramienta educativa con un laboratorio controlado para enseñar inyección SQL y validar correcciones. Presenté el workshop del proyecto en TICEC 2026.
+Educational security tool with a controlled lab for demonstrating SQL injection and validating fixes. Presented the project workshop at TICEC 2026.
 
 **[Turno Fácil](https://github.com/os-devsec/Turno-Facil)**  
-Colaboré con el equipo en el desarrollo de una aplicación para la gestión de turnos.
+Collaborated with a team to develop an appointment and queue management application.
 
 **[RUCKUS Security Research](https://github.com/LeirBaGMC/RUCKUS-Security-Research)**  
-Investigación académica sobre riesgos de seguridad en redes inalámbricas RUCKUS y recomendaciones de mitigación.
+Academic research on security risks in RUCKUS wireless networks and mitigation recommendations.
 
-**[Sistema de gestión hospitalaria Baca Ortiz](https://github.com/MasterPieceDR/App-Hospital-Beta)** · Java, Swing/JavaFX, SQL Server  
-Colaboré en el desarrollo de interfaces para un sistema hospitalario integrado con SQL Server.
+**[Baca Ortiz Hospital Management System](https://github.com/MasterPieceDR/App-Hospital-Beta)** · Java, Swing/JavaFX, SQL Server  
+Contributed to the development of interfaces for a hospital system integrated with SQL Server.
 
 **EcoRAEE Cloud** · FastAPI, SQL Server, AWS  
-Desarrollé funciones backend para la gestión de lotes y dispositivos, con permisos, auditoría y persistencia de datos.
+Developed backend features for managing electronic waste batches and devices, including permissions, auditing, and data persistence.
 
 **[Visual Vault](https://github.com/LeirBaGMC/Visual-Vault)** · React, FastAPI, AWS  
-Aplicación web full stack para organizar y compartir imágenes, con moderación automática de contenido.
+Full-stack web application for organizing and sharing images, with automated content moderation.
 
-**[Arquitectura de red de campus con Raspberry Pi](https://github.com/LeirBaGMC/Campus-Network-Architecture-RPi)**  
-Diseñé una arquitectura de red multi-VLAN con planificación VLSM, redundancia y servicios integrados.
+**[Campus Network Architecture with Raspberry Pi](https://github.com/LeirBaGMC/Campus-Network-Architecture-RPi)**  
+Designed a multi-VLAN campus network architecture with VLSM planning, redundancy, and integrated services.
 
-## Formación
+## Education
 
-**Ingeniería en Sistemas — Universidad Internacional del Ecuador (UIDE)** · 2023–2028, en curso  
-Quinto semestre. Miembro de la directiva de la Asociación de Estudiantes de Ciencias de la Computación durante 2026.
+**BSc in Systems Engineering — Universidad Internacional del Ecuador (UIDE)** · 2023–2028, in progress  
+Fifth semester. Member of the Computer Science Students Association board during 2026.
 
-**Ingeniería en TICS — Universidad de las Fuerzas Armadas (ESPE)** · 2020–2022  
-Tres semestres cursados.
+**ICT Engineering — Universidad de las Fuerzas Armadas (ESPE)** · 2020–2022  
+Completed three semesters.
 
-**Bachiller en Ciencias — Unidad Educativa Particular Andino** · 2020
+**High School Diploma in Science — Unidad Educativa Particular Andino** · 2020
 
-## Habilidades
+## Skills
 
-**Lenguajes:** Python, C#, Java, C++, Go, JavaScript, SQL, HTML y CSS.  
-**Frameworks:** .NET / ASP.NET Core, Angular, React, Tailwind CSS, FastAPI, SQLModel y JavaFX.  
-**Bases de datos:** SQL Server y DynamoDB.  
-**Cloud y DevOps:** AWS, Azure, Azure DevOps, CI/CD, Docker, Kubernetes, Git y PowerShell.  
-**Redes y sistemas:** Linux, MikroTik, pfSense, Zabbix, diseño de topologías y enrutamiento.  
-**Ciberseguridad:** análisis de vulnerabilidades, seguridad de redes y análisis forense digital.
+**Languages:** Python, C#, Java, C++, Go, JavaScript, SQL, HTML, and CSS.  
+**Frameworks:** .NET / ASP.NET Core, Angular, React, Tailwind CSS, FastAPI, SQLModel, and JavaFX.  
+**Databases:** SQL Server and DynamoDB.  
+**Cloud and DevOps:** AWS, Azure, Azure DevOps, CI/CD, Docker, Kubernetes, Git, and PowerShell.  
+**Networks and systems:** Linux, MikroTik, pfSense, Zabbix, network design, and routing.  
+**Cybersecurity:** vulnerability analysis, network security, and digital forensics.
 
-## Certificaciones e idiomas
+## Certifications and languages
 
-Técnico en Reparación de Computadoras · Programación Java Standard (Conecta Empleo) · Español nativo · Inglés B2
+Computer Repair Technician · Java Standard Programming Certificate (Conecta Empleo) · Spanish (native) · English (B2)
 
