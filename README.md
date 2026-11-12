@@ -27,6 +27,11 @@ Build software solutions across frontend, backend, databases, and cloud deployme
 **IT Support Intern — Hospital Especializado Pediátrico Baca Ortiz** · July–August 2022  
 Performed preventive and corrective equipment maintenance and assisted with operating system updates and network tools.
 
+
+<div align="center">
+<img src="./assets/sakura-divider.png" alt="Sakura branch divider" width="100%">
+</div>
+
 ## Selected projects
 
 **[SQLi Studio — SQLi and Recon Tool](https://github.com/LeirBaGMC/SQLi-And-Recon-Tool)** · Go, React, Docker  
