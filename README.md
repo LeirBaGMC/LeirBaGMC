@@ -35,25 +35,35 @@ Performed equipment maintenance and assisted with operating system updates and n
   <img src="./assets/sakura-katana-divider-red.svg" alt="" width="100%">
 </p>
 
-## Selected Projects
+## Featured Projects
 
-**[SQLi Studio — SQLi and Recon Tool](https://github.com/LeirBaGMC/SQLi-And-Recon-Tool)** · Go, React, Docker  
-Educational security tool with a controlled lab for demonstrating SQL injection and validating fixes. Presented at TICEC 2026.
+### [SQLi Studio — SQLi and Recon Tool](https://github.com/LeirBaGMC/SQLi-And-Recon-Tool)
 
-**[RUCKUS Security Research](https://github.com/LeirBaGMC/RUCKUS-Security-Research)**  
+Educational security tool with a controlled lab for demonstrating SQL injection and validating fixes. Presented at TICEC 2026.  
+`Go` `React` `Docker`
+
+### [RUCKUS Security Research](https://github.com/LeirBaGMC/RUCKUS-Security-Research)
+
 Academic research on wireless network security risks, configuration reviews, and mitigation recommendations.
 
-**[Campus Network Architecture with Raspberry Pi](https://github.com/LeirBaGMC/Campus-Network-Architecture-RPi)**  
+### [Campus Network Architecture with Raspberry Pi](https://github.com/LeirBaGMC/Campus-Network-Architecture-RPi)
+
 Multi-VLAN campus network architecture with VLSM planning, redundancy, and integrated services.
 
-**[Visual Vault](https://github.com/LeirBaGMC/Visual-Vault)** · React, FastAPI, AWS  
-Full-stack web application for organizing and sharing images, with automated content moderation.
+<details>
+  <summary>More projects</summary>
 
-**EcoRAEE Cloud** · FastAPI, SQL Server, AWS  
-Backend features for managing electronic waste batches and devices, including permissions, auditing, and data persistence.
+  <br>
 
-**[Turno Fácil](https://github.com/os-devsec/Turno-Facil)**  
-Team project for appointment and queue management.
+  **[Visual Vault](https://github.com/LeirBaGMC/Visual-Vault)** · React, FastAPI, AWS  
+  Full-stack web application for organizing and sharing images, with automated content moderation.
+
+  **EcoRAEE Cloud** · FastAPI, SQL Server, AWS  
+  Backend features for managing electronic waste batches and devices, including permissions, auditing, and data persistence.
+
+  **[Turno Fácil](https://github.com/os-devsec/Turno-Facil)**  
+  Team project for appointment and queue management.
+</details>
 
 ## GitHub Activity
 
@@ -111,5 +121,15 @@ Spanish (native) · English (B2)
   <a href="https://github.com/LeirBaGMC">GitHub</a> ·
   <a href="https://www.linkedin.com/in/gabriel-amindac/">LinkedIn</a> ·
   <a href="mailto:gabomindal@gmail.com">Email</a>
+</p>
+
+<p align="center">
+  <img src="./assets/sakura-katana-divider-red.svg" alt="" width="100%">
+</p>
+
+## Contribution Activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/LeirBaGMC/LeirBaGMC/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution graph animation for LeirBaGMC" width="100%">
 </p>
 
