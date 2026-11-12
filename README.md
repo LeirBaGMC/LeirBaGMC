@@ -9,7 +9,7 @@ Systems Engineering student based in Quito, Ecuador. Interested in software deve
 [GitHub](https://github.com/LeirBaGMC) · [LinkedIn](https://www.linkedin.com/in/gabriel-amindac/) · [Email](mailto:gabomindal@gmail.com)
 
 <p align="center">
-  <img src="./assets/exec-6b0579a3-cebb-43e4-9be8-f46ff068d7d2.png" alt="" width="75%">
+  <img src="./assets/sakura-divider.svg" alt="" width="100%">
 </p>
 
 ## About
@@ -17,7 +17,7 @@ Systems Engineering student based in Quito, Ecuador. Interested in software deve
 I am currently in my fifth semester of Systems Engineering at Universidad Internacional del Ecuador (UIDE). I have practical experience in software development, API integration, relational databases, cloud deployments, and IT support. My long-term interests include cybersecurity, penetration testing, and network security.
 
 <p align="center">
-  <img src="./assets/exec-6b0579a3-cebb-43e4-9be8-f46ff068d7d2.png" alt="" width="75%">
+  <img src="./assets/sakura-divider.svg" alt="" width="100%">
 </p>
 
 ## Experience
@@ -38,7 +38,7 @@ Develop software solutions across frontend, backend, databases, and cloud deploy
 Performed equipment maintenance and assisted with operating system updates and network tools.
 
 <p align="center">
-  <img src="./assets/exec-6b0579a3-cebb-43e4-9be8-f46ff068d7d2.png" alt="" width="75%">
+  <img src="./assets/sakura-divider.svg" alt="" width="100%">
 </p>
 
 ## Selected Projects
@@ -62,7 +62,7 @@ Backend features for managing electronic waste batches and devices, including pe
 Team project for appointment and queue management.
 
 <p align="center">
-  <img src="./assets/exec-6b0579a3-cebb-43e4-9be8-f46ff068d7d2.png" alt="" width="75%">
+  <img src="./assets/sakura-divider.svg" alt="" width="100%">
 </p>
 
 ## Education
@@ -76,7 +76,7 @@ Three semesters completed.
 **High School Diploma in Science — Unidad Educativa Particular Andino** · 2020
 
 <p align="center">
-  <img src="./assets/exec-6b0579a3-cebb-43e4-9be8-f46ff068d7d2.png" alt="" width="75%">
+  <img src="./assets/sakura-divider.svg" alt="" width="100%">
 </p>
 
 ## Skills
@@ -89,7 +89,7 @@ Three semesters completed.
 **Cybersecurity:** vulnerability analysis, network security, and digital forensics.
 
 <p align="center">
-  <img src="./assets/exec-6b0579a3-cebb-43e4-9be8-f46ff068d7d2.png" alt="" width="75%">
+  <img src="./assets/sakura-divider.svg" alt="" width="100%">
 </p>
 
 ## Certifications and Languages
