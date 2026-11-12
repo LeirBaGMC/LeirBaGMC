@@ -1,69 +1,143 @@
-<div align="center">
+<p align="center">
+  <img src="./assets/"
+       alt="LeirBaGMC — Systems Engineering"
+       width="100%">
+</p>
 
-<img src="./assets/sakura-banner-dark-integrated.png" alt="LeirBaGMC — Systems Engineering" width="100%">
-
-</div>
-
-# About
+# LeirBaGMC
 
 Systems Engineering student based in Quito, Ecuador. Interested in software development, networks, and technology infrastructure, with a long-term focus on cybersecurity and network security.
 
-[GitHub](https://github.com/LeirBaGMC) · [LinkedIn](https://www.linkedin.com/in/gabriel-amindac/) · [Email](mailto:gabomindal@gmail.com)
+[GitHub](https://github.com/LeirBaGMC) ·
+[LinkedIn](https://www.linkedin.com/in/gabriel-amindac/) ·
+[Email](mailto:gabomindal@gmail.com)
+
+<!-- HORIZONTAL DIVIDER: replace the filename with the actual horizontal sakura image you uploaded -->
+<p align="center">
+  <img src="./assets/sakura-horizontal.png" alt="" width="75%">
+</p>
+
+<table>
+  <tr>
+    <td width="110" valign="top">
+      <img src="./assets/exec-44c7c0d0-a351-4fcc-94ef-313dba921f8f.png" alt="" width="90">
+    </td>
+    <td valign="top">
+
+## About
+
+Systems Engineering student at Universidad Internacional del Ecuador (UIDE), currently in my fifth semester. I have experience in software development, API integration, relational databases, cloud deployments, and IT support. My long-term interests include cybersecurity, penetration testing, and network security.
+
+    </td>
+  </tr>
+</table>
+
+<!-- HORIZONTAL DIVIDER: replace the filename with the actual horizontal sakura image you uploaded -->
+<p align="center">
+  <img src="./assets/sakura-horizontal.png" alt="" width="75%">
+</p>
+
+<table>
+  <tr>
+    <td width="110" valign="top">
+      <img src="./assets/exec-44c7c0d0-a351-4fcc-94ef-313dba921f8f.png" alt="" width="90">
+    </td>
+    <td valign="top">
 
 ## Experience
 
 **Software Developer Intern — Saludsa** · Quito · September 2026–present  
-Contribute to the development and maintenance of internal applications and services related to payment operations. Support frontend and backend integration, APIs, relational databases, issue analysis, and build and deployment tracking with Git and Azure DevOps.
+Contribute to internal applications and services, API and database integration, issue analysis, and deployment workflows with Git and Azure DevOps.
 
 **Sales and Registration Manager — Bantú Dance Studio** · March–June 2026  
-Managed sales, registrations, attendance, and payments, and responded to customer inquiries.
+Managed sales, registrations, attendance, payments, and customer inquiries.
 
 **IT Support Intern — Universidad Internacional del Ecuador (UIDE)** · February 2024–September 2026  
-Provided first-level IT support, standardized labs, and assisted with academic software installation and deployment.
+Provided first-level support, standardized labs, and assisted with academic software installation and deployment.
 
 **Independent Developer** · Academic and personal projects · May 2024–present  
-Build software solutions across frontend, backend, databases, and cloud deployment.
+Develop software solutions across frontend, backend, databases, and cloud deployment.
 
 **IT Support Intern — Hospital Especializado Pediátrico Baca Ortiz** · July–August 2022  
-Performed preventive and corrective equipment maintenance and assisted with operating system updates and network tools.
+Performed equipment maintenance and assisted with operating system updates and network tools.
 
+    </td>
+  </tr>
+</table>
 
-<div align="center">
-<img src="./assets/sakura-divider.png" alt="Sakura branch divider" width="100%">
-</div>
+<!-- HORIZONTAL DIVIDER: replace the filename with the actual horizontal sakura image you uploaded -->
+<p align="center">
+  <img src="./assets/sakura-horizontal.png" alt="" width="75%">
+</p>
 
-## Selected projects
+<table>
+  <tr>
+    <td width="110" valign="top">
+      <img src="./assets/exec-44c7c0d0-a351-4fcc-94ef-313dba921f8f.png" alt="" width="90">
+    </td>
+    <td valign="top">
+
+## Selected Projects
 
 **[SQLi Studio — SQLi and Recon Tool](https://github.com/LeirBaGMC/SQLi-And-Recon-Tool)** · Go, React, Docker  
-Educational security tool with a controlled lab for demonstrating SQL injection and validating fixes. Presented the project workshop at TICEC 2026.
-
-**[Turno Fácil](https://github.com/os-devsec/Turno-Facil)**  
-Collaborated with a team to develop an appointment and queue management application.
+Educational security tool with a controlled lab for demonstrating SQL injection and validating fixes. Presented at TICEC 2026.
 
 **[RUCKUS Security Research](https://github.com/LeirBaGMC/RUCKUS-Security-Research)**  
-Academic research on security risks in RUCKUS wireless networks and mitigation recommendations.
+Academic research on wireless network security risks, configuration reviews, and mitigation recommendations.
 
-**[Baca Ortiz Hospital Management System](https://github.com/MasterPieceDR/App-Hospital-Beta)** · Java, Swing/JavaFX, SQL Server  
-Contributed to the development of interfaces for a hospital system integrated with SQL Server.
-
-**EcoRAEE Cloud** · FastAPI, SQL Server, AWS  
-Developed backend features for managing electronic waste batches and devices, including permissions, auditing, and data persistence.
+**[Campus Network Architecture with Raspberry Pi](https://github.com/LeirBaGMC/Campus-Network-Architecture-RPi)**  
+Multi-VLAN campus network architecture with VLSM planning, redundancy, and integrated services.
 
 **[Visual Vault](https://github.com/LeirBaGMC/Visual-Vault)** · React, FastAPI, AWS  
 Full-stack web application for organizing and sharing images, with automated content moderation.
 
-**[Campus Network Architecture with Raspberry Pi](https://github.com/LeirBaGMC/Campus-Network-Architecture-RPi)**  
-Designed a multi-VLAN campus network architecture with VLSM planning, redundancy, and integrated services.
+**EcoRAEE Cloud** · FastAPI, SQL Server, AWS  
+Backend features for managing electronic waste batches and devices, including permissions, auditing, and data persistence.
+
+**[Turno Fácil](https://github.com/os-devsec/Turno-Facil)**  
+Team project for appointment and queue management.
+
+    </td>
+  </tr>
+</table>
+
+<!-- HORIZONTAL DIVIDER: replace the filename with the actual horizontal sakura image you uploaded -->
+<p align="center">
+  <img src="./assets/sakura-horizontal.png" alt="" width="75%">
+</p>
+
+<table>
+  <tr>
+    <td width="110" valign="top">
+      <img src="./assets/exec-44c7c0d0-a351-4fcc-94ef-313dba921f8f.png" alt="" width="90">
+    </td>
+    <td valign="top">
 
 ## Education
 
-**BSc in Systems Engineering — Universidad Internacional del Ecuador (UIDE)** · 2023–2028, in progress  
-Fifth semester. Member of the Computer Science Students Association board during 2026.
+**Systems Engineering — Universidad Internacional del Ecuador (UIDE)** · 2023–2028, in progress  
+Fifth semester; member of the Computer Science Students Association board during 2026.
 
 **ICT Engineering — Universidad de las Fuerzas Armadas (ESPE)** · 2020–2022  
-Completed three semesters.
+Three semesters completed.
 
 **High School Diploma in Science — Unidad Educativa Particular Andino** · 2020
+
+    </td>
+  </tr>
+</table>
+
+<!-- HORIZONTAL DIVIDER: replace the filename with the actual horizontal sakura image you uploaded -->
+<p align="center">
+  <img src="./assets/sakura-horizontal.png" alt="" width="75%">
+</p>
+
+<table>
+  <tr>
+    <td width="110" valign="top">
+      <img src="./assets/exec-44c7c0d0-a351-4fcc-94ef-313dba921f8f.png alt="" width="90">
+    </td>
+    <td valign="top">
 
 ## Skills
 
@@ -74,7 +148,22 @@ Completed three semesters.
 **Networks and systems:** Linux, MikroTik, pfSense, Zabbix, network design, and routing.  
 **Cybersecurity:** vulnerability analysis, network security, and digital forensics.
 
-## Certifications and languages
+    </td>
+  </tr>
+</table>
 
-Computer Repair Technician · Java Standard Programming Certificate (Conecta Empleo) · Spanish (native) · English (B2)
+<!-- HORIZONTAL DIVIDER: replace the filename with the actual horizontal sakura image you uploaded -->
+<p align="center">
+  <img src="./assets/sakura-horizontal.png" alt="" width="75%">
+</p>
 
+## Certifications and Languages
+
+Computer Repair Technician · Java Standard Programming Certificate (Conecta Empleo)  
+Spanish (native) · English (B2)
+
+<p align="center">
+  <a href="https://github.com/LeirBaGMC">GitHub</a> ·
+  <a href="https://www.linkedin.com/in/gabriel-amindac/">LinkedIn</a> ·
+  <a href="mailto:gabomindal@gmail.com">Email</a>
+</p>
