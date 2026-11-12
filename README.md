@@ -130,6 +130,5 @@ Spanish (native) · English (B2)
 ## Contribution Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/LeirBaGMC/LeirBaGMC/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution graph animation for LeirBaGMC" width="100%">
+  <img src="https://raw.githubusercontent.com/LeirBaGMC/LeirBaGMC/output/github-snake-dark.svg" alt="GitHub contribution graph animation for LeirBaGMC" width="100%">
 </p>
-
