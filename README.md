@@ -1,48 +1,24 @@
 <p align="center">
-  <img src="./assets/"
-       alt="LeirBaGMC — Systems Engineering"
-       width="100%">
+  <img src="./assets/sakura-banner-dark-integrated.png" alt="LeirBaGMC — Systems Engineering" width="100%">
 </p>
 
 # LeirBaGMC
 
 Systems Engineering student based in Quito, Ecuador. Interested in software development, networks, and technology infrastructure, with a long-term focus on cybersecurity and network security.
 
-[GitHub](https://github.com/LeirBaGMC) ·
-[LinkedIn](https://www.linkedin.com/in/gabriel-amindac/) ·
-[Email](mailto:gabomindal@gmail.com)
+[GitHub](https://github.com/LeirBaGMC) · [LinkedIn](https://www.linkedin.com/in/gabriel-amindac/) · [Email](mailto:gabomindal@gmail.com)
 
-<!-- HORIZONTAL DIVIDER: replace the filename with the actual horizontal sakura image you uploaded -->
 <p align="center">
-  <img src="./assets/sakura-horizontal.png" alt="" width="75%">
+  <img src="./assets/exec-6b0579a3-cebb-43e4-9be8-f46ff068d7d2.png" alt="" width="75%">
 </p>
-
-<table>
-  <tr>
-    <td width="110" valign="top">
-      <img src="./assets/exec-44c7c0d0-a351-4fcc-94ef-313dba921f8f.png" alt="" width="90">
-    </td>
-    <td valign="top">
 
 ## About
 
-Systems Engineering student at Universidad Internacional del Ecuador (UIDE), currently in my fifth semester. I have experience in software development, API integration, relational databases, cloud deployments, and IT support. My long-term interests include cybersecurity, penetration testing, and network security.
+I am currently in my fifth semester of Systems Engineering at Universidad Internacional del Ecuador (UIDE). I have practical experience in software development, API integration, relational databases, cloud deployments, and IT support. My long-term interests include cybersecurity, penetration testing, and network security.
 
-    </td>
-  </tr>
-</table>
-
-<!-- HORIZONTAL DIVIDER: replace the filename with the actual horizontal sakura image you uploaded -->
 <p align="center">
-  <img src="./assets/sakura-horizontal.png" alt="" width="75%">
+  <img src="./assets/exec-6b0579a3-cebb-43e4-9be8-f46ff068d7d2.png" alt="" width="75%">
 </p>
-
-<table>
-  <tr>
-    <td width="110" valign="top">
-      <img src="./assets/exec-44c7c0d0-a351-4fcc-94ef-313dba921f8f.png" alt="" width="90">
-    </td>
-    <td valign="top">
 
 ## Experience
 
@@ -61,21 +37,9 @@ Develop software solutions across frontend, backend, databases, and cloud deploy
 **IT Support Intern — Hospital Especializado Pediátrico Baca Ortiz** · July–August 2022  
 Performed equipment maintenance and assisted with operating system updates and network tools.
 
-    </td>
-  </tr>
-</table>
-
-<!-- HORIZONTAL DIVIDER: replace the filename with the actual horizontal sakura image you uploaded -->
 <p align="center">
-  <img src="./assets/sakura-horizontal.png" alt="" width="75%">
+  <img src="./assets/exec-6b0579a3-cebb-43e4-9be8-f46ff068d7d2.png" alt="" width="75%">
 </p>
-
-<table>
-  <tr>
-    <td width="110" valign="top">
-      <img src="./assets/exec-44c7c0d0-a351-4fcc-94ef-313dba921f8f.png" alt="" width="90">
-    </td>
-    <td valign="top">
 
 ## Selected Projects
 
@@ -97,21 +61,9 @@ Backend features for managing electronic waste batches and devices, including pe
 **[Turno Fácil](https://github.com/os-devsec/Turno-Facil)**  
 Team project for appointment and queue management.
 
-    </td>
-  </tr>
-</table>
-
-<!-- HORIZONTAL DIVIDER: replace the filename with the actual horizontal sakura image you uploaded -->
 <p align="center">
-  <img src="./assets/sakura-horizontal.png" alt="" width="75%">
+  <img src="./assets/exec-6b0579a3-cebb-43e4-9be8-f46ff068d7d2.png" alt="" width="75%">
 </p>
-
-<table>
-  <tr>
-    <td width="110" valign="top">
-      <img src="./assets/exec-44c7c0d0-a351-4fcc-94ef-313dba921f8f.png" alt="" width="90">
-    </td>
-    <td valign="top">
 
 ## Education
 
@@ -123,21 +75,9 @@ Three semesters completed.
 
 **High School Diploma in Science — Unidad Educativa Particular Andino** · 2020
 
-    </td>
-  </tr>
-</table>
-
-<!-- HORIZONTAL DIVIDER: replace the filename with the actual horizontal sakura image you uploaded -->
 <p align="center">
-  <img src="./assets/sakura-horizontal.png" alt="" width="75%">
+  <img src="./assets/exec-6b0579a3-cebb-43e4-9be8-f46ff068d7d2.png" alt="" width="75%">
 </p>
-
-<table>
-  <tr>
-    <td width="110" valign="top">
-      <img src="./assets/exec-44c7c0d0-a351-4fcc-94ef-313dba921f8f.png alt="" width="90">
-    </td>
-    <td valign="top">
 
 ## Skills
 
@@ -148,13 +88,8 @@ Three semesters completed.
 **Networks and systems:** Linux, MikroTik, pfSense, Zabbix, network design, and routing.  
 **Cybersecurity:** vulnerability analysis, network security, and digital forensics.
 
-    </td>
-  </tr>
-</table>
-
-<!-- HORIZONTAL DIVIDER: replace the filename with the actual horizontal sakura image you uploaded -->
 <p align="center">
-  <img src="./assets/sakura-horizontal.png" alt="" width="75%">
+  <img src="./assets/exec-6b0579a3-cebb-43e4-9be8-f46ff068d7d2.png" alt="" width="75%">
 </p>
 
 ## Certifications and Languages
