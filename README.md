@@ -1,3 +1,9 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/sakura-banner-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/sakura-banner-light.png">
+  <img alt="Primavera japonesa: cerezos en flor, monte Fuji y un puente" src="./assets/sakura-banner-dark.png" width="100%">
+</picture>
+
 # Gabriel Alexander Minda Carrión
 
 Estudiante de Ingeniería en Sistemas en Quito, Ecuador. Me interesa el desarrollo de software, las redes y la infraestructura tecnológica, con un enfoque a largo plazo en ciberseguridad y seguridad de redes.
@@ -66,3 +72,4 @@ Tres semestres cursados.
 ## Certificaciones e idiomas
 
 Técnico en Reparación de Computadoras · Programación Java Standard (Conecta Empleo) · Español nativo · Inglés B2
+
