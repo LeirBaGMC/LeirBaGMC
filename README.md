@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/sakura-banner-dark.png" alt="LeirBaGMC — Systems Engineering" width="100%">
+<img src="./assets/sakura-banner-dark-integrated.png" alt="LeirBaGMC — Systems Engineering" width="100%">
 
 </div>
 
