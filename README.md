@@ -19,9 +19,6 @@ I am currently in my fifth semester of Systems Engineering at Universidad Intern
 **Software Developer Intern — Saludsa** · Quito · September 2026–present  
 Contribute to internal applications and services, API and database integration, issue analysis, and deployment workflows with Git and Azure DevOps.
 
-**Sales and Registration Manager — Bantú Dance Studio** · March–June 2026  
-Managed sales, registrations, attendance, payments, and customer inquiries.
-
 **IT Support Intern — Universidad Internacional del Ecuador (UIDE)** · February 2024–September 2026  
 Provided first-level support, standardized labs, and assisted with academic software installation and deployment.
 
